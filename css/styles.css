@@ -1,7 +1,7 @@
 :root{
     --text-gradient: linear-gradient( 89.9deg,  rgba(255,190,32,1) 0.6%, rgba(251,112,71,1) 124.3% );
     --main-page-gradient: linear-gradient(60deg, #29323c 0%, #485563 100%);
-    --second-page-gradient:linear-gradient( 89.7deg,  rgba(0, 0, 0, 0.692) -10.7%, rgba(53, 91, 125, 0.781) 88.8% );
+    --second-page-gradient:linear-gradient( 89.7deg,  rgba(0, 0, 0, 0.500) -10.7%, rgba(53, 91, 125, 0.500) 88.8% );
     --third-page-gradient:radial-gradient( circle farthest-corner at -8.9% 51.2%,  rgba(255,124,0,1) 0%, rgba(255,124,0,1) 15.9%, rgba(255,163,77,1) 15.9%, rgba(255,163,77,1) 24.4%, rgba(19,30,37,1) 24.5%, rgba(19,30,37,1) 66% );
     --text-color:white;
 }
